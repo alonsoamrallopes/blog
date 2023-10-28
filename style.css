@@ -1,8 +1,30 @@
 body {
 	text-align: center;
+	font-family: arial;
+
 
 }
 
-.paragrafo{
+.navigation{
+     border-color: #c4170c;
+     color:blec;
+}
 
+.navigation{
+	background-color: #ff7212;
+	color: white;
+	margin-left: 100px;
+}
+
+
+.openn {
+	background-color: red;
+	color: white;
+	margin-left: 100px;
+
+}
+
+
+.javass {
+	text-align: #&darr;;
 }
